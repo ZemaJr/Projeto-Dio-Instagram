@@ -1,2 +1,0 @@
-# PROJETO-DIO---P-GINA-INICIAL-DO-INTAGRAM
-Bootcamp HTML Web Developer
